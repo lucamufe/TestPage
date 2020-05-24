@@ -1,0 +1,18 @@
+GUARDAR UN PROYECTO EN GITHUB USANDO VISUAL STUDIO CODE
+
+1. Almacenar el proyecto localmente en Git
+	- En el meenú vertical seleccionar "Source Control"
+	- Escribir un mensaje para documentar el cambio y precionar CTRL + Enter para hacer Commit local
+
+2. Almacenar el proyecto en Github
+	- Hacer Login en Github (User: lucamufe   Pass: Ponche2507)
+	- Crear un repositorio público en Github y copiar el enlace del repositorio
+	- En VS Code presionar CTRL + Shift + P, ingresar Git: Add Remote, darle un nombre para documentar el cambio y presionar Enter
+	- En VS Code en el icono en forma de nube de la parte inferior izquierda presionarlo para hacer Push al servidor
+
+
+
+CLONAR UN REPOSITORIO
+1. Ingresar a Github, buscar el repositorio y copiar el enlace
+2. En VS Code, presionar CTRL + Shift + P, ingresar Git: Clone, pegar la dirección del repositorio y presionar Enter
+3  Guardar el repositirio en una ubicación local del computador
